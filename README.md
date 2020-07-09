@@ -2,17 +2,17 @@
 
 ## _Education_
 
-**Huazhong University of Science and Technology** _Sep 2014 - June 2018_
-Bachelor degree of Marine engineering
-**University of Chinese Academy of Sciences** Sep 2018 - July 2021
+**Huazhong University of Science and Technology** _Sep 2014 - June 2018_<br/>
+Bachelor degree of Marine engineering<br/>
+**University of Chinese Academy of Sciences** Sep 2018 - July 2021<br/>
 Master degree of Pattern Recognition and Intelligent System
 ## _Publication_
 ### _Conf_
 H.X. Qian, X.F. Lin, et al., "Towards Rebuild The Interventionist's Intra-Operative Natural Behavior{:} A Fully Sensorized Endovascular Robotic System Design,"in Conf. International Conference on Medical Imaging Physics and Engineering(ICMIPE),Shenzhen, China, 2019, pp. 1-7.
 ### _Patent_
-2019. Puncture robot for implanting radioactive seeds. CN110548218A. filled Aug 29, 2019, Patent Pending
-2019. A kind of blood vessel intervention operation robot and equipment. CN110200700A. filled Apr 17, 2019, Patent Pending
-2019. A kind of robot. CN110279469A. filled Apr 16, 2019, Patent Pending
+2019.Puncture robot for implanting radioactive seeds. CN110548218A. filled Aug 29, 2019, Patent Pending<br/>
+2019.A kind of blood vessel intervention operation robot and equipment. CN110200700A. filled Apr 17, 2019, Patent Pending<br/>
+2019.A kind of robot. CN110279469A. filled Apr 16, 2019, Patent Pending<br/>
 
 
 ```
