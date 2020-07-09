@@ -1,13 +1,19 @@
-# HUGO XMIN
+# Lin Xiaofeng
 
-## _Keep it simple, but not simpler_
+## _Education_
 
-**XMin** is a Hugo theme written by [Yihui Xie](https://yihui.name) in about four hours: half an hour was spent on the Hugo templates, and 3.5 hours were spent on styling. The main motivation for writing this theme was to provide a really minimal example to beginners of Hugo templates. This XMin theme contains about 130 lines of code in total, including the code in HTML templates and CSS (also counting empty lines).
+**Huazhong University of Science and Technology** _Sep 2014 - June 2018_
+Bachelor degree of Marine engineering
+**University of Chinese Academy of Sciences** Sep 2018 - July 2021
+Master degree of Pattern Recognition and Intelligent System
+## _Publication_
+### _Conf_
+H.X. Qian, X.F. Lin, et al., "Towards Rebuild The Interventionist's Intra-Operative Natural Behavior{:} A Fully Sensorized Endovascular Robotic System Design,"in Conf. International Conference on Medical Imaging Physics and Engineering(ICMIPE),Shenzhen, China, 2019, pp. 1-7.
+### _Patent_
+2019. Puncture robot for implanting radioactive seeds. CN110548218A. filled Aug 29, 2019, Patent Pending
+2019. A kind of blood vessel intervention operation robot and equipment. CN110200700A. filled Apr 17, 2019, Patent Pending
+2019. A kind of robot. CN110279469A. filled Apr 16, 2019, Patent Pending
 
-
-```bash
-find . -not -path '*/exampleSite/*' \( -name '*.html' -o -name '*.css' \) | xargs wc -l
-```
 
 ```
        5 ./layouts/404.html
@@ -22,7 +28,5 @@ find . -not -path '*/exampleSite/*' \( -name '*.html' -o -name '*.css' \) | xarg
        7 ./static/css/fonts.css
      137 total
 ```
-
-I can certainly further reduce the code, for example, by eliminating the CSS, but I believe a tiny bit of CSS can greatly improve readability. You cannot really find many CSS frameworks that only contain 50 lines of code.
 
 [![Screenshot](https://github.com/yihui/hugo-xmin/raw/master/images/screenshot.png)](https://xmin.yihui.name)
