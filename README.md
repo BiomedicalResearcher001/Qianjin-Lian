@@ -15,7 +15,8 @@ H.X. Qian, X.F. Lin, et al., "**Towards Rebuild The Interventionist's Intra-Oper
 2019.**A kind of robot**. CN110279469A. filled Apr 16, 2019, Patent Pending<br/>
 
 ## _Award_
-**Outstanding Graduates** of Huazhong University of Science and Technology [pdf](https://github.com/yuukireina05/mypage/blob/master/material/Outstanding%20Graduate.pdf)
+2018 **Outstanding Graduates** of Huazhong University of Science and Technology [png](https://github.com/yuukireina05/mypage/blob/master/material/Outstanding%20Graduate.pdf)<br/>
+2019 **Global Innovation Design Competition of Medical Robotics: Second Prize** (Dean: Guang-zhong Yang) [png](https://github.com/yuukireina05/mypage/blob/master/material/Medical%20Robotics%20competition.pdf)<br/>
 
 
 ```
