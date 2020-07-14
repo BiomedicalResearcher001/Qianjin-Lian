@@ -10,11 +10,11 @@ _Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes o
 ## _Publication_
 [Conference]* &nbsp;H.X. Qian, X.F. Lin, et al., "**Towards Rebuild The Interventionist's Intra-Operative Natural Behavior: A Fully Sensorized Endovascular Robotic System Design**,"in Conf. International Conference on Medical Imaging Physics and Engineering(ICMIPE),Shenzhen, China, 2019, pp. 1-7.
 
-[Patent]* &nbsp;2019.**Puncture robot for implanting radioactive seeds**. CN110548218A. filled Aug 29, 2019, Patent Pending<br/>
+[Patent]* 2019.**Puncture robot for implanting radioactive seeds**. CN110548218A. filled Aug 29, 2019, Patent Pending<br/>
 
-[Patent]* &nbsp;2019.**A kind of blood vessel intervention operation robot and equipment**. CN110200700A. filled Apr 17, 2019, Patent Pending<br/>
+[Patent]* 2019.**A kind of blood vessel intervention operation robot and equipment**. CN110200700A. filled Apr 17, 2019, Patent Pending<br/>
 
-[Patent]* &nbsp;2019.**A kind of robot**. CN110279469A. filled Apr 16, 2019, Patent Pending<br/>
+[Patent]* 2019.**A kind of robot**. CN110279469A. filled Apr 16, 2019, Patent Pending<br/>
 ## _Research Projects_
 ## _Honors&Awards_
 * 2018 **Outstanding Graduates** of Huazhong University of Science and Technology [png](https://github.com/yuukireina05/mypage/blob/master/material/Outstanding%20Graduate.pdf)<br/>
