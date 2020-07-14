@@ -2,9 +2,9 @@
 
 ## _Education_
 
-**Huazhong University of Science and Technology**              <p align="right">Sep 2014 - June 2018</p><br/>
+**Huazhong University of Science and Technology**             <div style="text-align: right">Sep 2014 - June 2018</div><br/>
 Bachelor degree of Marine engineering, [GPA 3.45](https://github.com/yuukireina05/mypage/blob/master/material/Bachelor%20transcript.pdf)<br/> 
-**University of Chinese Academy of Sciences**                  <p align="right">Sep 2018 - July 2021</p><br/>
+**University of Chinese Academy of Sciences**                 <div style="text-align: right">Sep 2018 - July 2021</div><br/>
 Master degree of Pattern Recognition and Intelligent System, [GPA 3.65](https://github.com/yuukireina05/mypage/blob/master/material/Master%20transcript.pdf)
 ## _Publication_
 [Conference]H.X. Qian, X.F. Lin, et al., "**Towards Rebuild The Interventionist's Intra-Operative Natural Behavior: A Fully Sensorized Endovascular Robotic System Design**,"in Conf. International Conference on Medical Imaging Physics and Engineering(ICMIPE),Shenzhen, China, 2019, pp. 1-7.
