@@ -19,20 +19,3 @@ _Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes o
 ## _Honors&Awards_
 * 2018 **Outstanding Graduates** of Huazhong University of Science and Technology [png](https://github.com/yuukireina05/mypage/blob/master/material/Outstanding%20Graduate.pdf)<br/>
 * 2019 **Global Innovation Design Competition of Medical Robotics: Second Prize** (Dean: Guang-zhong Yang) [png](https://github.com/yuukireina05/mypage/blob/master/material/Medical%20Robotics%20competition.pdf)<br/>
-
-
-```
-       5 ./layouts/404.html
-      12 ./layouts/_default/single.html
-      20 ./layouts/_default/list.html
-      13 ./layouts/_default/terms.html
-       0 ./layouts/partials/foot_custom.html
-       0 ./layouts/partials/head_custom.html
-       9 ./layouts/partials/footer.html
-      20 ./layouts/partials/header.html
-      51 ./static/css/style.css
-       7 ./static/css/fonts.css
-     137 total
-```
-
-[![Screenshot](https://github.com/yihui/hugo-xmin/raw/master/images/screenshot.png)](https://xmin.yihui.name)
