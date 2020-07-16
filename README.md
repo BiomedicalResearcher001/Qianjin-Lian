@@ -70,8 +70,8 @@ guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [
 > + Design, manufacture and maintenance of three kid-size humanoid robots
 
 ## _Honors&Awards_
-* 2018 **Outstanding Graduates** of Huazhong University of Science and Technology [png](https://github.com/yuukireina05/mypage/blob/master/material/Outstanding%20Graduate.pdf)<br/>
 * 2019 **Global Innovation Design Competition of Medical Robotics: Second Prize** (Dean: Guang-zhong Yang) [png](https://yuukireina05.github.io/Lin-Xiaofeng/material/Medical%20Robotics%20competition.pdf)<br/>
+* 2018 **Outstanding Graduates** of Huazhong University of Science and Technology [png](https://yuukireina05.github.io/Lin-Xiaofeng/material/Outstanding%20Graduate.pdf)<br/>
 * 2016 **The 7th International Humanoid Robots Olympic Games (China Open)**  Shot, Steeplechase running Champion
 
 ## _Aditional Information_
