@@ -14,7 +14,7 @@ _Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes o
 [Patent]
 * 2019.**Puncture robot for implanting radioactive seeds**. CN110548218A. filled Aug 29, 2019, Patent Pending<br/>
 * 2019.**A kind of blood vessel intervention operation robot and equipment**. CN110200700A. filled Apr 17, 2019, Patent Pending<br/>
-* 2019.**A kind of robot**. CN110279469A. filled Apr 16, 2019, Patent Pending<br/>
+* 2019.**A kind of robot**. CN110279469A. filled Apr 16, 2019, Patent Pending
 ## _Research Projects_
 ### Towards malignant tumors in different organs: Robotic system for precise intervention in brachytherapy
 > ___Funding___: <br/>
