@@ -1,5 +1,5 @@
 _Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes of Advanced Technology, Shenzhen, China&emsp;&emsp;_Phone_:&nbsp;+86 18062799249<br/>
-guide: [Educations](https://github.com/yuukireina05/Lin-Xiaofeng/edit/master/README.md#educations)/
+guide: [Educations](https://github.com/yuukireina05/Lin-Xiaofeng/blob/master/README.md#educations)/
 ## _Educations_
 
 **Huazhong University of Science and Technology**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep 2014 - June 2018 <br/>
