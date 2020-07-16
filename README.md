@@ -85,4 +85,4 @@ _Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes o
 * JLPT N2, Fluent in English writing, Native in Chinese
 
 [Interests]
-* Running, badminton, 
+* Running, badminton, Fitness
