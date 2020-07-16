@@ -16,10 +16,10 @@ _Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes o
 * 2019.**A kind of blood vessel intervention operation robot and equipment**. CN110200700A. filled Apr 17, 2019, Patent Pending<br/>
 * 2019.**A kind of robot**. CN110279469A. filled Apr 16, 2019, Patent Pending<br/>
 ## _Research Projects_
-**[Towards malignant tumors in different organs: Robotic system for precise intervention in brachytherapy]**(_2019 August ~ Now in SIAT_)
-* ___Funding___: National key R&D program of China (No. 2018YFA0704102) <br/>
-* ___Supervisors___: Prof. Shoujun Zhou, PE. Cheng Wang, MD. Jiang Lu<br/>
-* ___Contribution___:<br/>
+**Towards malignant tumors in different organs: Robotic system for precise intervention in brachytherapy**(_2019 August ~ Now in SIAT_)
+> ___Funding___: National key R&D program of China (No. 2018YFA0704102) <br/>
+> ___Supervisors___: Prof. Shoujun Zhou, PE. Cheng Wang, MD. Jiang Lu<br/>
+> ___Contribution___:<br/>
      - Design, manufacture and maintenance of a 7-DoF needle insertion robotic system
      - Kinematics analysis and control of the robotic system by motion control card (Googoltech, China)
      - Implementation of obstacle avoiding algorithm based on improved artificial potential field approach in the trajectory planning of the robotic system
