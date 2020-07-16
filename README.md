@@ -21,6 +21,7 @@ _Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes o
 ## _Research Projects_
 
 ### Towards malignant tumors in different organs: Robotic system for precise intervention in brachytherapy
+
 > ___Funding___: 
 > + National key R&D program of China (No. 2018YFA0704102) 
 
@@ -33,6 +34,7 @@ _Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes o
 > + Implementation of obstacle avoiding algorithm based on improved artificial potential field approach in the trajectory planning of the robotic system
 
 ### Research and development for cerebralvascular real-time interventional therapy with mobile surgical robot system
+
 > ___Funding___: <br/>
 > + The National High Technology Research and Development Program of China (NO.2015AA043203) <br/>
 
