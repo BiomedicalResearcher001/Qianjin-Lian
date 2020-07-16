@@ -20,9 +20,9 @@ _Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes o
 > ___Funding___: National key R&D program of China (No. 2018YFA0704102) <br/>
 > ___Supervisors___: Prof. Shoujun Zhou, PE. Cheng Wang, MD. Jiang Lu<br/>
 > ___Contribution___:<br/>
-     > + Design, manufacture and maintenance of a 7-DoF needle insertion robotic system
-     > + Kinematics analysis and control of the robotic system by motion control card (Googoltech, China)
-     > + Implementation of obstacle avoiding algorithm based on improved artificial potential field approach in the trajectory planning of the robotic system
+> + Design, manufacture and maintenance of a 7-DoF needle insertion robotic system
+> + Kinematics analysis and control of the robotic system by motion control card (Googoltech, China)
+> + Implementation of obstacle avoiding algorithm based on improved artificial potential field approach in the trajectory planning of the robotic system
 
 ## _Honors&Awards_
 * 2018 **Outstanding Graduates** of Huazhong University of Science and Technology [png](https://github.com/yuukireina05/mypage/blob/master/material/Outstanding%20Graduate.pdf)<br/>
