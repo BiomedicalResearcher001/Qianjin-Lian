@@ -3,10 +3,10 @@ guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [
 ## _Educations_
 
 **Huazhong University of Science and Technology**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep 2014 - June 2018 <br/>
-* Bachelor degree of Marine engineering, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[GPA 3.45](https://github.com/yuukireina05/mypage/blob/master/material/Bachelor%20transcript.pdf)<br/>
+* Bachelor degree of Marine engineering, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[GPA 3.45](https://yuukireina05.github.io/Lin-Xiaofeng/material/Bachelor%20transcript.pdf)<br/>
 
 **University of Chinese Academy of Sciences**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep 2018 - July 2021 <br/>
-* Master degree of Pattern Recognition and Intelligent System, &emsp;&emsp;&nbsp;&nbsp;&nbsp;[GPA 3.65](https://github.com/yuukireina05/mypage/blob/master/material/Master%20transcript.pdf)
+* Master degree of Pattern Recognition and Intelligent System, &emsp;&emsp;&nbsp;&nbsp;&nbsp;[GPA 3.65](https://yuukireina05.github.io/Lin-Xiaofeng/material/Master%20transcript.pdf)
 
 ## _Publications_
 
@@ -71,8 +71,8 @@ guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [
 
 ## _Honors&Awards_
 * 2018 **Outstanding Graduates** of Huazhong University of Science and Technology [png](https://github.com/yuukireina05/mypage/blob/master/material/Outstanding%20Graduate.pdf)<br/>
-* 2019 **Global Innovation Design Competition of Medical Robotics: Second Prize** (Dean: Guang-zhong Yang) [png](https://github.com/yuukireina05/mypage/blob/master/material/Medical%20Robotics%20competition.pdf)<br/>
-* 2019 **Global Innovation Design Competition of Medical Robotics: Second Prize** (Dean: Guang-zhong Yang) [png](https://github.com/yuukireina05/mypage/blob/master/material/Medical%20Robotics%20competition.pdf)<br/>
+* 2019 **Global Innovation Design Competition of Medical Robotics: Second Prize** (Dean: Guang-zhong Yang) [png](https://yuukireina05.github.io/Lin-Xiaofeng/material/Medical%20Robotics%20competition.pdf)<br/>
+* 2019 **Global Innovation Design Competition of Medical Robotics: Second Prize** (Dean: Guang-zhong Yang) [png](https://yuukireina05.github.io/Lin-Xiaofeng/material/Medical%20Robotics%20competition.pdf)<br/>
 * 2016 **The 7th International Humanoid Robots Olympic Games (China Open)**  Shot, Steeplechase running Champion
 
 ## _Aditional Information_
