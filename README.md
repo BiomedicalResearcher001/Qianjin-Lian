@@ -28,6 +28,39 @@ _Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes o
 > + Kinematics analysis and control of the robotic system by motion control card (Googoltech, China)
 > + Implementation of obstacle avoiding algorithm based on improved artificial potential field approach in the trajectory planning of the robotic system
 
+**Research and development for cerebralvascular real-time interventional therapy with mobile surgical robot system**(_2018 August ~ 2019 Winter in SIAT_)
+> ___Funding___: <br/>
+> + The National High Technology Research and Development Program of China (NO.2015AA043203) <br/>
+
+> ___Supervisors___: <br/>
+> + Prof. Shoujun Zhou, PE. Cheng Wang<br/>
+
+> ___Contribution___:<br/>
+> + Design, manufacture and maintenance of force feedback module on endovascular interventional robot
+> + Maintenance of the 3th endovascular interventional robot
+
+
+**Simulation on the attitude control of a air spring mounting device**(_2017 Spring in HUST_)
+> ___Charactor___: <br/>
+> + Research team leader <br/>
+
+> ___Advisor___: <br/>
+> + Prof. Wu jinbo<br/>
+
+> ___Contribution___:<br/>
+> + Obtained the relationship between the stiffness and pressure of the air spring by ANSYS (ANSYS Inc., USA)
+> + Completed the simulation with the relationship by Simulink module on Matlab (MathWorks Inc., USA)
+
+**The 7th International Humanoid Robots Olympic Games (China Open)**(_2016 Summer in HUST_)
+> ___Charactor___: <br/>
+> + Team leader of mechanism group <br/>
+
+> ___Advisor___: <br/>
+> + Prof. Xi Li<br/>
+
+> ___Contribution___:<br/>
+> + Design, manufacture and maintenance of three kid-size humanoid robots
+
 ## _Honors&Awards_
 * 2018 **Outstanding Graduates** of Huazhong University of Science and Technology [png](https://github.com/yuukireina05/mypage/blob/master/material/Outstanding%20Graduate.pdf)<br/>
 * 2019 **Global Innovation Design Competition of Medical Robotics: Second Prize** (Dean: Guang-zhong Yang) [png](https://github.com/yuukireina05/mypage/blob/master/material/Medical%20Robotics%20competition.pdf)<br/>
