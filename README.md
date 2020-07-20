@@ -32,10 +32,10 @@ guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [
 
 > ___Contribution___:(_2019 August ~ Now in SIAT_)<br/>
 > + Design, manufacture and maintenance of a 7-DoF needle insertion robotic system
-> + Kinematics analysis and control of the robotic system by motion control card (Googoltech, China)
+> + Kinematics analysis and control of the robotic system by Optical tracking systems (Polaris, NDI, USA)
 > + Implementation of obstacle avoiding algorithm based on improved artificial potential field approach in the trajectory planning of the robotic system
 
-### Research and development for cerebralvascular real-time interventional therapy with mobile surgical robot system
+### Research and development for cerebrovascular real-time interventional therapy with mobile surgical robot system
 
 > ___Funding___: <br/>
 > + The National High Technology Research and Development Program of China (NO.2015AA043203) <br/>
