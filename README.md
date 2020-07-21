@@ -56,7 +56,7 @@ guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [
 > + Prof. Wu jinbo<br/>
 
 > ___Contribution___:(_2017 Spring in HUST_)<br/>
-> + Obtained the response to stiffness of the air spring by ANSYS (ANSYS Inc., USA)
+> + Obtained the displacement response to stiffness of the air spring by ANSYS (ANSYS Inc., USA)
 > + Completed the simulation with the relationship by Simulink module on Matlab (MathWorks Inc., USA)
 
 ### The 7th International Humanoid Robots Olympic Games (China Open)
