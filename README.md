@@ -1,4 +1,4 @@
-_Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes of Advanced Technology, Shenzhen, China&emsp;&emsp;_Phone_:&nbsp;+86 18062799249<br/>
+_Email_:&nbsp;xf.lin@siat.ac.cn / yuukireina05@gmail.com &emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes of Advanced Technology, Shenzhen, China&emsp;&emsp;_Phone_:&nbsp;+86 18062799249<br/>
 guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [Publications](https://yuukireina05.github.io/Lin-Xiaofeng/#publications) / [Research Projects](https://yuukireina05.github.io/Lin-Xiaofeng/#research-projects) / [Honors&Awards](https://yuukireina05.github.io/Lin-Xiaofeng/#honorsawards)
 ## _Educations_
 
