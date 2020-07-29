@@ -1,9 +1,9 @@
-_Email_:&nbsp;xf.lin@siat.ac.cn&emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes of Advanced Technology, Shenzhen, China&emsp;&emsp;_Phone_:&nbsp;+86 18062799249<br/>
+_Email_:&nbsp;yuukireina00@gmail.com &emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes of Advanced Technology, Shenzhen, China&emsp;&emsp;_Phone_:&nbsp;+86 18062799249<br/>
 guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [Publications](https://yuukireina05.github.io/Lin-Xiaofeng/#publications) / [Research Projects](https://yuukireina05.github.io/Lin-Xiaofeng/#research-projects) / [Honors&Awards](https://yuukireina05.github.io/Lin-Xiaofeng/#honorsawards)
 ## _Educations_
 
 **Huazhong University of Science and Technology**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep 2014 - June 2018 <br/>
-* Bachelor degree of Marine engineering, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[GPA 3.45](https://yuukireina05.github.io/Lin-Xiaofeng/material/Bachelor%20transcript.pdf)<br/>
+* Bachelor degree of Marine engineering, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[GPA 3.4](https://yuukireina05.github.io/Lin-Xiaofeng/material/Bachelor%20transcript.pdf)<br/>
 
 **University of Chinese Academy of Sciences**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep 2018 - July 2021 <br/>
 * Master degree of Pattern Recognition and Intelligent System, &emsp;&emsp;&nbsp;&nbsp;&nbsp;[GPA 3.65](https://yuukireina05.github.io/Lin-Xiaofeng/material/Master%20transcript.pdf)
