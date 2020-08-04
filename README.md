@@ -1,12 +1,12 @@
 _Email_:&nbsp;willianvictory@foxmail.com &emsp;&emsp;_Address_:&nbsp;Shenzhen Institutes of Advanced Technology, Shenzhen, China&emsp;&emsp;_Phone_:&nbsp;+86 13261668518<br/>
-guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [Publications](https://yuukireina05.github.io/Lin-Xiaofeng/#publications) / [Research Projects](https://yuukireina05.github.io/Lin-Xiaofeng/#research-projects) / [Honors&Awards](https://yuukireina05.github.io/Lin-Xiaofeng/#honorsawards)
+guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [Publications](https://biomedicine-researcher.github.io/Lian-Qianjin/) / [Research Projects](https://biomedicine-researcher.github.io/Lian-Qianjin/) / [Honors&Awards](https://biomedicine-researcher.github.io/Lian-Qianjin/)
 ## _Educations_
 
 **Beijing University of Chemical technology**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep 2014 - June 2018 <br/>
-* Bachelor degree of Marine engineering, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[GPA 3.4](https://yuukireina05.github.io/Lin-Xiaofeng/material/Bachelor%20transcript.pdf)<br/>
+* Bachelor degree of Marine engineering, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[GPA 3.4](https://biomedicine-researcher.github.io/Lian-Qianjin//material/Bachelor%20transcript.pdf)<br/>
 
 **University of Chinese Academy of Sciences**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep 2018 - July 2021 <br/>
-* Master degree of Pattern Recognition and Intelligent System, &emsp;&emsp;&nbsp;&nbsp;&nbsp;[GPA 3.65](https://yuukireina05.github.io/Lin-Xiaofeng/material/Master%20transcript.pdf)
+* Master degree of Pattern Recognition and Intelligent System, &emsp;&emsp;&nbsp;&nbsp;&nbsp;[GPA 3.65](https://biomedicine-researcher.github.io/Lian-Qianjin//material/Master%20transcript.pdf)
 
 ## _Publications_
 
@@ -70,8 +70,8 @@ guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [
 > + Design, manufacture and maintenance of three kid-size humanoid robots
 
 ## _Honors&Awards_
-* 2019 **Global Innovation Design Competition of Medical Robotics: Second Prize** (Dean: Guang-zhong Yang) [png](https://yuukireina05.github.io/Lin-Xiaofeng/material/Medical%20Robotics%20competition.pdf)<br/>
-* 2018 **Outstanding Graduates** of Huazhong University of Science and Technology [png](https://yuukireina05.github.io/Lin-Xiaofeng/material/Outstanding%20Graduate.pdf)<br/>
+* 2019 **Global Innovation Design Competition of Medical Robotics: Second Prize** (Dean: Guang-zhong Yang) [png](https://biomedicine-researcher.github.io/Lian-Qianjin//material/Medical%20Robotics%20competition.pdf)<br/>
+* 2018 **Outstanding Graduates** of Huazhong University of Science and Technology [png](https://biomedicine-researcher.github.io/Lian-Qianjin//material/Outstanding%20Graduate.pdf)<br/>
 * 2016 **The 7th International Humanoid Robots Olympic Games (China Open)**  Shot, Steeplechase running Champion
 
 ## _Aditional Information_
