@@ -6,7 +6,7 @@ guide: [Educations](https://yuukireina05.github.io/Lin-Xiaofeng/#educations) / [
 * Bachelor degree of Biotechnology, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[GPA 3.4](https://biomedicine-researcher.github.io/Lian-Qianjin//material/Bachelor%20transcript.pdf)<br/>
 
 **University of Chinese Academy of Sciences**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep 2018 - July 2021 <br/>
-* Master degree of Biotechnology Engineering, &emsp;&emsp;&nbsp;&nbsp;&nbsp;[GPA 3.65](https://biomedicine-researcher.github.io/Lian-Qianjin//material/Master%20transcript.pdf)
+* Master degree of Biotechnology Engineering, &emsp;&emsp;&nbsp;&nbsp;&nbsp;[GPA 3.75](https://biomedicine-researcher.github.io/Lian-Qianjin//material/Master%20transcript.pdf)
 
 ## _Publications_
 
